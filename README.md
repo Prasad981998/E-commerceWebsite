@@ -2,6 +2,15 @@
 
 Django E-commerce Website is a full-fledged web application built with Django, providing a platform for online shopping. It includes features for product browsing, shopping cart management, order processing, and user authentication.
 
+![homepage1](https://github.com/Prasad981998/E-commerceWebsite/blob/main/home1.PNG)
+![homepage2](https://github.com/Prasad981998/E-commerceWebsite/blob/main/home2.PNG)
+*Caption: This is home page.*
+
+![innerpage](https://github.com/Prasad981998/E-commerceWebsite/blob/main/inner.PNG)
+*Caption: This is inner page.*
+
+![homepage2](https://github.com/Prasad981998/E-commerceWebsite/blob/main/details.PNG)
+*Caption: This is product detail page.*
 ## Features
 
 - **User Authentication:** Secure user registration and login system.
